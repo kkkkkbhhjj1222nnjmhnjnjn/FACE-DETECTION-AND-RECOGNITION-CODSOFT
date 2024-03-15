@@ -1,3 +1,5 @@
+#FACE DETECTION AND RECOGNITION-CODSOFT INTERNSHIP BY JIT SARKAR
+
 import cv2
 import face_recognition
 
@@ -46,3 +48,5 @@ cv2.imshow('Face Detection and Recognition System', img)
 # Wait for a key press and close the window
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+#FACE DETECTION AND RECOGNITION-CODSOFT INTERNSHIP BY JIT SARKAR
